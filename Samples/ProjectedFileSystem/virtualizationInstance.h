@@ -46,6 +46,8 @@ Abstract:
 
 #pragma once
 
+#include <stdexcept>
+
 namespace regfs {
 
 struct GUIDComparer {
